@@ -20,7 +20,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- FOD fingerprint scanner -->
     <bool name="config_needCustomFODView">true</bool>
-    <bool name="config_usesOnePlusFOD">true</bool>
 
     <!-- Specify custom blanking delay of the display -->
     <integer name="config_screen_off_delay">0</integer>
